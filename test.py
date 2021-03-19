@@ -1,5 +1,6 @@
 import random
 import csv
+
 print("hit or shit")
 a = 1
 b = 2.0
@@ -12,11 +13,11 @@ print(d)
 
 
 def add(v1, v2):
-    return v1*v2
+    return v1 * v2
 
 
 def sub(r, l):
-    return r+l
+    return r + l
 
 
 print(sub(1, 2))

@@ -1,5 +1,6 @@
 {
   "python.linting.pylintEnabled": true,
+  "python.formatting.provider": "yapf",
   "workbench.iconTheme": "material-icon-theme",
   "editor.fontSize": 14,
   "editor.tabSize": 4,

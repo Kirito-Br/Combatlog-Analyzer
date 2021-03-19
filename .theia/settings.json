@@ -1,0 +1,8 @@
+{
+  "python.linting.pylintEnabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 14,
+  "editor.tabSize": 4,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true
+}
